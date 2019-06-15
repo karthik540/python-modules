@@ -1,2 +1,2 @@
 # python-modules
-All the import python modules for rapid prototyping.
+All the important python modules for rapid prototyping.
