@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import time
 
-url = "http://192.168.1.4:8080/shot.jpg?rnd=916450"
+url = "http://192.168.43.1:8080/shot.jpg?rnd=916450"
 
 while(True):
     last_time = time.time()
